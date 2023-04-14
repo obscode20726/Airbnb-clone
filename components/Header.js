@@ -1,4 +1,4 @@
-import logo from '../assets/img/airbnb_logo.png'
+
 import Image from 'next/image'
 import { MagnifyingGlassIcon, GlobeAltIcon, Bars3Icon, UserCircleIcon } from '@heroicons/react/24/solid'
 function Header() {
