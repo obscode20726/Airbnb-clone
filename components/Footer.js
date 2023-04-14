@@ -31,7 +31,7 @@ function Footer() {
       <div className=' space-y-4 text-xs text-gray-500'>
         <h5 className=' font-bold'>TRUST & SAFETY</h5>
         <p>Safety tips</p>
-        <p>Airbnb's policy</p>
+        <p>Airbnb&apos;s policy</p>
         <p>scams or fraudulent report</p>
         <p>Fraudulent report</p>
         <p>Fraudulent report avoid</p>
